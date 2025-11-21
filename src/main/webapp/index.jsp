@@ -120,7 +120,7 @@
     <div class="nav-links">
         <a href="#">Home</a>
         <a href="#">TV Shows</a>
-        <a href="#">Tollywood Movies</a>
+        <a href="#">hollywood Movies</a>
         
 <a href="#">Kids</a>
     </div>
